@@ -160,3 +160,12 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Book jupyter source code downloaded from book website for local reference.
+# with these source code in project, Codeium AI tool can do code completion
+# exactly as in the source code in this folder.
+/pytorch
+
+# IDEs
+.vscode
+.idea
